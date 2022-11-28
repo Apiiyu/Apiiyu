@@ -9,8 +9,8 @@ I'm a Full Stack Web Developer with experience in building websites for small an
 * 🌍  I'm based in Bandung
 * 🖥️  See my portfolio at [MyPortofolio](http://rafportofolio.com)
 * ✉️  You can contact me at [khoirulloh.rafi2@gmail.com](mailto:khoirulloh.rafi2@gmail.com)
-* 🚀  I'm currently working on [Birutekno.Inc](http://birutekno.com)
-* 🧠  I'm learning Golang, Vue.js, Laravel, Node.js
+* 🚀  I'm currently working on [BTS.id](http://bts.id)
+* 🧠  I'm learning JavaScript, Typescript, GoLang, PHP, gRPC 
 
 ### Skills
 
